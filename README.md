@@ -10,6 +10,7 @@ BRATGRAM - веб мессенджер с возможностью поиска 
 
 
 ### 🔗 Ссылки на репозитории
-- **Фронтенд**: [https://github.com/scheliwilli/camp_frontend](https://github.com/scheliwilli/camp_frontend)
-- **Бэкенд**: [https://github.com/lavatee/camp_backend](https://github.com/lavatee/camp_backend)
-
+| Компонент | Ссылка |
+|-----------|--------|
+| **Frontend** | [https://github.com/scheliwilli/2jis-frontend](https://github.com/scheliwilli/2jis-frontend)
+| **Backend** | [https://github.com/scheliwilli/2jis-backend](https://github.com/scheliwilli/2jis-backend) 
