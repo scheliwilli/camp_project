@@ -12,5 +12,5 @@ BRATGRAM - веб мессенджер с возможностью поиска 
 ### 🔗 Ссылки на репозитории
 | Компонент | Ссылка |
 |-----------|--------|
-| **Frontend** | [https://github.com/scheliwilli/2jis-frontend](https://github.com/scheliwilli/camp_frontend)
-| **Backend** | [https://github.com/scheliwilli/2jis-backend](https://github.com/lavatee/camp_backend) 
+| **Frontend** | [https://github.com/scheliwilli/camp_frontend](https://github.com/scheliwilli/camp_frontend)
+| **Backend** | [https://github.com/lavatee/camp_backend](https://github.com/lavatee/camp_backend) 
